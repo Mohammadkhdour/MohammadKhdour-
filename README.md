@@ -2,10 +2,10 @@
 
 - A 4th-year Computer Engineering Student at Birzeit University From Palestine
 - Pursuing my studies while working on various projects
-- 📧 You can reach me at: [hm2003ze@gmail.com](mailto:hm2003ze@gmail.com)
+- 📧 You can reach me at: [mohammadkhdour18@gmail.com](mailto:mohammadkhdour18@gmail.com)
 
 ## Connect with me:
-<a href="https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank">
+<a href="[https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
 </a>
 
