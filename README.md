@@ -5,7 +5,7 @@
 - 📧 You can reach me at: [mohammadkhdour18@gmail.com](mailto:mohammadkhdour18@gmail.com)
 
 ## Connect with me:
-<a href="[https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)">
+<a href="[[https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
 </a>
 
