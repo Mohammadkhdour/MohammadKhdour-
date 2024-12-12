@@ -13,9 +13,10 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 ---
 ## Connect with Me
 <p align="left">
-  <a href="[https://www.facebook.com/your-profile](https://www.facebook.com/share/14Rhf5G1M9/?mibextid=LQQJ4d)" target="_blank">
+ <a href="https://www.facebook.com/share/14Rhf5G1M9/?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" />
-  </a>
+</a>
+
 </p>
 
 ## 🛠️ Languages & Tools
@@ -26,6 +27,8 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Shell" title="Shell Scripting" width="50" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML5" width="50" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS3" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="50" />
+  <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/68/external-hardware-essentials-pack-smashingstocks-flat-smashing-stocks.png" alt="Hardware" title="Hardware Programming" width="50" />
 </p>
 
 ---
