@@ -21,14 +21,14 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" alt="C" title="C" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" />       
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="50" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="50" />
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Shell" title="Shell Scripting" width="50" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML5" width="50" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS3" width="50" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="50" />
-  <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/68/external-hardware-essentials-pack-smashingstocks-flat-smashing-stocks.png" alt="Hardware" title="Hardware Programming" width="50" />
+  <img src="https://img.icons8.com/fluency/48/000000/microchip.png" alt="Hardware" title="Hardware Programming" width="50" />
 </p>
 
 ---
