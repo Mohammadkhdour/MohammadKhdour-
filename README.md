@@ -1,32 +1,4 @@
-# Hi, I'm Mohammad! 👋
 
-- A 4th-year Computer Engineering Student at Birzeit University From Palestine
-- Pursuing my studies while working on various projects
-- 📧 You can reach me at: [mohammadkhdour18@gmail.com](mailto:mohammadkhdour18@gmail.com)
-
-## Connect with me:
-<a href="[[https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
-</a>
-
-
-## 🛠️ Languages 🛠️
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" />       
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
-</div>
-
-
-
-### 📊 GitHub Stats
-![mohammad khdour GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAlSha3r&show_icons=true&theme=radical)
-
-### 🌐 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlSha3r&layout=compact&theme=radical)
 
 # Welcome to My GitHub Profile
 
@@ -39,21 +11,21 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 - 📧 You can reach me at: [mohammadkhdour18@gmail.com](mailto:mohammadkhdour18@gmail.com)
 
 ---
-## Connect with me:
-<a href="[[https://www.facebook.com/profile.php?id=100063692535335&mibextid=ZbWKwL" target="_blank](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)](https://www.facebook.com/share/15yunMfr1M/?mibextid=LQQJ4d)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="50" height="50" alt="Facebook Logo" />
-</a>
-
+## Connect with Me
+<p align="left">
+  <a href="[https://www.facebook.com/your-profile](https://www.facebook.com/share/14Rhf5G1M9/?mibextid=LQQJ4d)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" />
+  </a>
+</p>
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Hardware-%23000000.svg?style=for-the-badge&logo=hardware&logoColor=white" alt="Hardware" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" alt="C" title="C" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Shell" title="Shell Scripting" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML5" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS3" width="50" />
 </p>
 
 ---
