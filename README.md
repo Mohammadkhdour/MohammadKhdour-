@@ -28,7 +28,7 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML5" width="50" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS3" width="50" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="50" />
-  <img src="https://img.icons8.com/fluency/48/000000/microchip.png" alt="Hardware" title="Hardware Programming" width="50" />
+  <img src="https://user-images.githubusercontent.com/16542113/50175134-4f7b3700-02fc-11e9-914e-cb317fddce4e.png" alt="Hardware" title="Hardware Programming" width="50" />
 </p>
 
 ---
