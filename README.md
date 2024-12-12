@@ -60,4 +60,4 @@ I enjoy building a variety of projects that showcase my skills and passion for p
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MohammadKhdour/repository-you-need.git
