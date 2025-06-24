@@ -40,13 +40,6 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 
 ---
 
-## 🔥 Streak Stats Card
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammadKhdour&theme=radical" alt="GitHub Streaks" />
-</p>
-
-
----
 
 ## 🌍 Most Used Languages
 <p align="center">
