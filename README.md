@@ -38,10 +38,8 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadKhdour&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mohammadkhdour/repo)
-![GitHub license](https://img.shields.io/github/license/mohammadkhdour/repo)
-![GitHub issues](https://img.shields.io/github/issues/mohammadkhdour/repo)
-
+## Streak Stats Card
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-khdour&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
