@@ -18,7 +18,7 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 </a>
 
  <a href="https://www.instagram.com/mohammad_.khdour" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" alt="Instagram"/>
+  <img src="https://img.freepik.com/premium-vector/instagram-icon_768467-672.jpg?semt=ais_hybrid&w=740" width="50" alt="Instagram"/>
 </a>
 
 </p>
