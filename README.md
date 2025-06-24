@@ -14,11 +14,11 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 ## Connect with Me
 <p align="left">
  <a href="https://www.facebook.com/share/14Rhf5G1M9/?mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" />
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" height="50" />
 </a>
 
  <a href="https://www.instagram.com/mohammad_.khdour" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" alt="Instagram"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" alt="Instagram"/>
 </a>
 
 </p>
@@ -48,6 +48,7 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohammadKhdour&theme=radical" alt="GitHub Trophies" />
 </p>
+
 ---
 
 
