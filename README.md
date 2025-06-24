@@ -17,6 +17,10 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" title="Facebook" width="50" />
 </a>
 
+ <a href="https://www.instagram.com/mohammad_.khdour" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" alt="Instagram"/>
+</a>
+
 </p>
 
 ## 🛠️ Languages & Tools
@@ -38,6 +42,12 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadKhdour&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadKhdour&theme=radical" alt="GitHub Trophies" />
+</p>
 ---
 
 
