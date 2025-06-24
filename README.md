@@ -38,8 +38,13 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
   <img src="https://github-readme-stats.vercel.app/api?username=MohammadKhdour&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-## Streak Stats Card
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-khdour&theme=tokyonight)](https://git.io/streak-stats)
+---
+
+## 🔥 Streak Stats Card
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammadKhdour&theme=radical" alt="GitHub Streaks" />
+</p>
+
 
 ---
 
