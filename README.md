@@ -44,9 +44,22 @@ I'm **Mohammad khdour**, and this is my personal GitHub account where I share va
 
 ---
 
+## 🏆 GitHub Achievements
+<p align="center">
+  <!-- GitHub Streak Stats (Very Reliable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadkhdour&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadkhdour&theme=redical&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadKhdour&theme=radical" alt="GitHub Trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=MohammadKhdour&theme=radical](https://github-profile-trophy.vercel.app/?username=Mohammadkhdour&theme=radical&row=2&column=4)" alt="GitHub Trophies" />
 </p>
 
 ---
