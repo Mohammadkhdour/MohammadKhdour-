@@ -9,7 +9,7 @@ Hi there! 👋
 
 I'm **Mohammad khdour**, and this is my personal GitHub account where I share various projects and coding experiments. I'm passionate about technology and programming, and I work with several languages and platforms.
 
-- A 4th-year Computer Engineering Student at Birzeit University From Palestine
+- A 5th-year Computer Engineering Student at Birzeit University From Palestine
 - Pursuing my studies while working on various projects
 - 📧 You can reach me at: [mohammadkhdour18@gmail.com](mailto:mohammadkhdour18@gmail.com)
 
